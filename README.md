@@ -64,7 +64,7 @@ APP Secret
 
 Device ID
 
-2️. Google Home
+## 2️. Google Home
 
 Connect your Sinric Pro account
 
@@ -72,7 +72,7 @@ Assign the device
 
 Name it: Light, Room Lamp, etc.
 
-3️. ESP32 Firmware
+## 3️. ESP32 Firmware
 
 Open Arduino IDE
 
@@ -84,6 +84,6 @@ SinricPro Library (through Library Manager)
 
 Replace:
 
-const char* WIFI_SSID = "";
-const char* WIFI_PASS = "";
+" const char* WIFI_SSID = ""; "
+" const char* WIFI_PASS = ""; "
 
