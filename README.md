@@ -84,7 +84,9 @@ SinricPro Library (through Library Manager)
 
 Replace:
 
-``` const char* WIFI_SSID = ""; 
+```
+const char* WIFI_SSID = ""; 
+const char* WIFI_PASS = "";
 
- const char* WIFI_PASS = ""; ```
+ ```
 
