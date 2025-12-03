@@ -106,7 +106,7 @@ Bulb turns ON/OFF
 
 # Safety Warning
 
-⚡ Relay controls HIGH VOLTAGE AC.
+ Relay controls HIGH VOLTAGE AC.
 
 Always isolate AC and low-voltage (ESP32) circuits.
 
@@ -124,6 +124,8 @@ Use proper casing, connectors, and fuses.
 # Author
 
 Project Name: Project1 — Google Home Automation with Voice-Controlled LED
+
 Created by: Shiva Panjugula
+
 Feel free to fork, improve, and experiment!
 
