@@ -85,7 +85,7 @@ const char* WIFI_SSID = "";
 const char* WIFI_PASS = "";
 
 ```
-## Replace the below credentials with the API, Device Id , App secret details of your Sinric Pro Account:
+## Replace the below details in code with the API, Device Id , App secret details of your Sinric Pro Account:
 
 ```
 #define APP_KEY    "d2fc2beb-5c57-41d8-86bc-955d375d8e84"
