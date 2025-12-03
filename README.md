@@ -1,7 +1,3 @@
-# Project1-Google-Home-Automation-with-Voice-control LED
-Light that can be controlled using Voice and Google Assistant
-
-
 # Project1 — Google Home Automation with Voice-Controlled LED 
 
 Control your home lighting using Google Assistant, Sinric Pro, and an ESP32.
