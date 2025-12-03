@@ -78,14 +78,15 @@ WiFi library (default with ESP32 core)
 
 SinricPro Library (through Library Manager)
 
-Replace:
+## Replace the below details in code with your Wifi SSID and Password
 
 ```
 const char* WIFI_SSID = ""; 
 const char* WIFI_PASS = "";
 
 ```
-## Replace the below credentials with the Key, API, Device Id details of your Sinric Pro Account
+## Replace the below credentials with the API, Device Id , App secret details of your Sinric Pro Account:
+
 ```
 #define APP_KEY    "d2fc2beb-5c57-41d8-86bc-955d375d8e84"
 #define APP_SECRET "9e4856b4-428a-4034-adda-d2ca6d24dc81-5c26e71a-b2fc-4f5d-98b7-06e42aead211"
