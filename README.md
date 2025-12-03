@@ -84,7 +84,14 @@ Replace:
 const char* WIFI_SSID = ""; 
 const char* WIFI_PASS = "";
 
- ```
+```
+```
+// SinricPro credentials
+#define APP_KEY    "d2fc2beb-5c57-41d8-86bc-955d375d8e84"
+#define APP_SECRET "9e4856b4-428a-4034-adda-d2ca6d24dc81-5c26e71a-b2fc-4f5d-98b7-06e42aead211"
+#define DEVICE_ID "692f7ba26dbd335b28ec5a7b"
+
+```
 
 # How Voice Control Works
 
