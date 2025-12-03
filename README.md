@@ -36,7 +36,7 @@ Light bulb	Controlled load
 
 Jumper wires	Electrical connections
 
-#  ESP32 Pinout
+## ESP32 Pinout
 
 ##Pin	Description
 
