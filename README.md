@@ -26,15 +26,24 @@ Google Home → Sinric Pro Cloud → ESP32 → Relay Module → Light Bulb
 The ESP32 runs a lightweight loop where it listens for events (ON/OFF) from Sinric and toggles GPIO5 accordingly.
 
 #  Hardware Used
-Component	Purpose
+## Component	Purpose
+
 ESP32	Main microcontroller
+
 Relay module	Switches AC power to the light
+
 Light bulb	Controlled load
+
 Jumper wires	Electrical connections
+
 #  ESP32 Pinout
-Pin	Description
+
+##Pin	Description
+
 GPIO 5	Relay control pin
+
 VCC	Relay power (typically 5V or 3.3V depending on your module)
+
 GND	Ground
 
  Note: Most relay modules are Active LOW (LOW = ON, HIGH = OFF).
