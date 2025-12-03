@@ -48,6 +48,17 @@ GND	Ground
 
  Note: Most relay modules are Active LOW (LOW = ON, HIGH = OFF).
 
+ ```
+
+ESP32 VCC -> Relay VCC
+
+ESP32 GND -> Relay GND
+
+ESP32 GPIO D5 -> Relay Input
+
+
+```
+
 #  Software / Platforms Used
 
 Arduino IDE
@@ -97,9 +108,9 @@ const char* WIFI_PASS = "";
 ## Replace the below details in code with the API, Device Id , App secret details of your Sinric Pro Account:
 
 ```
-#define APP_KEY    "d2fc2beb-5c57-41d8-86bc-955d375d8e84"
-#define APP_SECRET "9e4856b4-428a-4034-adda-d2ca6d24dc81-5c26e71a-b2fc-4f5d-98b7-06e42aead211"
-#define DEVICE_ID "692f7ba26dbd335b28ec5a7b"
+#define APP_KEY    ""
+#define APP_SECRET ""
+#define DEVICE_ID ""
 
 ```
 
