@@ -90,3 +90,44 @@ const char* WIFI_PASS = "";
 
  ```
 
+# How Voice Control Works
+
+You speak a command:
+
+"Hey Google, turn on the light"
+
+Google Home sends the request → Sinric Pro cloud
+
+Sinric forwards the command to the ESP32
+
+ESP32:
+
+Executes callback onPowerState
+
+Switches GPIO5 → Relay toggles
+
+Bulb turns ON/OFF
+
+# Safety Warning
+
+⚡ Relay controls HIGH VOLTAGE AC.
+
+Always isolate AC and low-voltage (ESP32) circuits.
+
+Never touch wiring while powered.
+
+Use proper casing, connectors, and fuses.
+
+# Project Status
+
+1. Working prototype
+2. Voice control
+3. Google Home integration
+4. Future improvements:
+
+# Author
+
+Project Name: Project1 — Google Home Automation with Voice-Controlled LED
+Created by: Shiva Panjugula
+Feel free to fork, improve, and experiment!
+
