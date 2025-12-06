@@ -151,7 +151,7 @@ Use proper casing, connectors, and fuses.
 
 # Author
 
-Project Name: Project1 — Google Home Automation with Voice-Controlled LED
+Project Name: Google Home Automation with Voice-Controlled LED
 
 Created by: Shiva Panjugula
 
